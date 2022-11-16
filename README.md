@@ -1,3 +1,6 @@
 ### :man_technologist: #My personal blog
 - <b>Day 1 - #dating</b><br>
   Today I finally started to tell you, my friends. I know it's unlikely that anyone will start reading it, but that doesn't stop me. Today I wanted to introduce myself - my name is Vladislav, but everyone calls me Staf. I'm in the noondrunning business and I make millions from it. If you want to become like me - read my blog:) See you soon!
+- <b>The last two weeks - #uphill</b><br>
+  I rented an expensive dedicated server on Hetzner for the Aleo miner. Promised soon the opening of a new test stage I certainly will not lose the chance to be part of a great team. Also had to update all the nodes I've been maintaining for a year or more. It was a very stressful time, but despite that I am full of energy to move forward, for it is definitely worth it.
+In addition, I will tell you more information about myself. Perhaps this will motivate someone to follow my path. In general just about half a year ago I had last hundred dollars in pocket and unexpectedly I have stumbled upon the real gem among projects - Aptos. Just in the previous month the guys from the team encouraged the holders of their nodes and gave 2-3 thousand dollars per node in cash equivalent. I decided to invest this money in maintaining the new servers, I'll keep you posted :)
