@@ -8,5 +8,5 @@ In addition, I will tell you more information about myself. Perhaps this will mo
 It's a very stressful time. I would say, the most difficult period of the whole year. A lot of places failed to take awards, and a lot of effort was wasted, as it turns out now. But I'm not discouraged, because the first quarter of 2023 promises to be very profitable and rich in tasty releases. Have you noticed that the end of the year often brings a sharp increase in stress in all areas of life?
 - <b>The last days [11.12.2022] - #yeah#guys</b><br>
 What can I tell you guys? All I can say is, don't stick your hands in this sphere, for it's very easy to hurt them on uncut diamonds! Yes, yes, yes! Okay, I will not brag yet, we will arrange a meeting in a week, there I will tell you what I mean in general)
-- <b>After holidays [11.12.2022] - #happy#new#ye...news!</b><br>
+- <b>After holidays - #happy#new#ye...news!</b><br>
 Good day my dear reader! I am the happiest, and most importantly, the most rested and most responsible person in the world. I am in a new phase of SUI and right now I am upgrading my node and moving to the new version, having made a backup beforehand. Peace be with you all and more gems.
